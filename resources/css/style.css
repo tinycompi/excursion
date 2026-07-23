@@ -1,0 +1,19 @@
+/* Sets the global background, text alignment, and font family */
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+/* Styles the top-most header */
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+/* Styles the download link */
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
