@@ -8,7 +8,7 @@ This project is a promotional webpage that advertises a new app called Excursion
 - Links to download the app
 
 ## How to Use
-To view the live website, navigate to: 
+To view the live website, navigate to: http://tinycompi.github.io/excursion
 
 To view this project locally:
 1. Clone this repository to your local machine.
